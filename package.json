@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Nikolaytcev/platforms_ajs/issues"
   },
-  "homepage": "https://github.com/Nikolaytcev/platforms_ajs#readme"
+  "homepage": "https://github.com/Nikolaytcev/platforms_ajs#readme",
+  "dependencies": {
+    "@nikolaytcev/ajs": "^1.0.0"
+  }
 }
